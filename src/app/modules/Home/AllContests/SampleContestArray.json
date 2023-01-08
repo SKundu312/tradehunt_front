@@ -1,0 +1,80 @@
+{
+  "contests": [
+    {
+      "id": "1",
+      "name": "TradeHunt",
+      "organizer": "NIT Kurukshetra",
+      "description": {
+        "about":"Welcome aboard Traders, this is your chance to show your technical analytic skills. There you make the highest ROI on our given capital, here are the prizes and recognition waiting for you.. Apply for the challenge as soon as possible as only limited seats available",
+        "rules":{
+          "duration": 5,
+          "start": "25/12/2021",
+          "end": "29/12/2021",
+          "eligibility": "All" 
+        },
+        "prizes":{
+          "first": "$800",
+          "second": "$300",
+          "third": "NA"
+        }
+      }
+    },
+    {
+      "id": "2",
+      "name": "StockHunt",
+      "organizer": "IIT Roorkee",
+      "description": {
+        "about":"Welcome aboard Traders, this is your chance to show your technical analytic skills. There you make the highest ROI on our given capital, here are the prizes and recognition waiting for you.. Apply for the challenge as soon as possible as only limited seats available",
+        "rules":{
+          "duration": 5,
+          "start": "25/12/2021 11:00 AM",
+          "end": "29/12/2021 7:00 PM",
+          "eligibility": "All" 
+        },
+        "prizes":{
+          "first": "$800",
+          "second": "$300",
+          "third": "NA"
+        }
+      }
+    },
+    {
+      "id": "3",
+      "name": "Only Traders",
+      "organizer": "NIT Delhi",
+      "description": {
+        "about":"Welcome aboard Traders, this is your chance to show your technical analytic skills. There you make the highest ROI on our given capital, here are the prizes and recognition waiting for you.. Apply for the challenge as soon as possible as only limited seats available",
+        "rules":{
+          "duration": 5,
+          "start": "25/12/2021 11:00 AM",
+          "end": "29/12/2021 7:00 PM",
+          "eligibility": "All" 
+        },
+        "prizes":{
+          "first": "$800",
+          "second": "$300",
+          "third": "NA"
+        }
+      }
+    },
+    {
+      "id": "4",
+      "name": "Trade Geek",
+      "organizer": "IIT Ropar",
+      "description": {
+        "about":"Welcome aboard Traders, this is your chance to show your technical analytic skills. There you make the highest ROI on our given capital, here are the prizes and recognition waiting for you.. Apply for the challenge as soon as possible as only limited seats available",
+        "rules":{
+          "duration": 5,
+          "start": "25/12/2021 11:00 AM",
+          "end": "29/12/2021 7:00 PM",
+          "eligibility": "All" 
+        },
+        "prizes":{
+          "first": "$800",
+          "second": "$300",
+          "third": "NA"
+        }
+      }
+    }
+  ]
+}
